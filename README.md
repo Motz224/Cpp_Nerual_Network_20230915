@@ -1,6 +1,6 @@
 # Cpp_Nerual_Network_20230915
 ## Purpose
-Self study of nn
+Self study of nn.\
 I was inspired by up, who only using numpy to build up the model. So I want to try with cpp.\
 Sorry for the shitty code, I'm just a beginner.
 ## Reference
